@@ -1,0 +1,31 @@
+body{
+              margin-left: 40%;
+              margin-top: 10rem;
+              display:block;
+              background-color: antiquewhite;
+              border: 4rem;
+              border-color: green;
+}
+.head{
+              color:red;
+              font-style: oblique;
+              font-display: 10px;
+              
+}
+.lab{
+              margin-left: 25px;
+              color: blue;
+              font-weight: 100;
+
+}
+.to{
+              margin-left:25px;
+              color:blue;
+}
+.btn{
+              margin-left: 40px;
+              color: blue;
+              padding: 10px 15px;
+              font-size:large;
+
+}
